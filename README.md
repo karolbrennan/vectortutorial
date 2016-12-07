@@ -22,3 +22,4 @@ This project is built on the back of my own custom [Vagrant Box](https://github.
 ### Frameworks / Libraries Used
 - Foundation CSS
 - jQuery
+- [jsColor](http://jscolor.com/)
