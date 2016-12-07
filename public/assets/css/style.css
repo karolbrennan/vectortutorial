@@ -1,0 +1,30 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Oswald", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: 700;
+}
+
+header, footer, #content {
+    padding: 1rem;
+}
+
+.colors {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.colors li {
+    display: inline-block;
+}
+input.jscolor {
+    width: 4.5rem;
+    border: 0;
+    text-align: center;
+    padding: 0.25rem;
+    margin: 0.15rem;
+    display: inline-block;
+    font-size: 0.75rem;
+}
+
+.color-block {
+    margin-bottom: 2rem;
+}
