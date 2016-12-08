@@ -1,0 +1,6 @@
+.vagrant
+/ansible/
+.idea
+/Vagrantfile
+/Vectors
+/vectorcolorguide
