@@ -11,6 +11,8 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:700">
     <link rel="stylesheet" href="/assets/css/style.css">
     <script src="/assets/js/jscolor.min.js"></script>
+    <meta property="og:image" content="/assets/img/ogimage.png"/>
+
 </head>
 
 <header>
